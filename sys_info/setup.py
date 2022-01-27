@@ -7,5 +7,5 @@ setup(name='systeminfo',
       author='Elise BRARD',
       author_email='elise.brard@ucdconnect.ie',
       license='UCD',
-      packages=['systeminfo'],
+      packages=['sys_info'],
       zip_safe=False)
