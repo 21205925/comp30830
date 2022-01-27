@@ -1,6 +1,6 @@
 from setuptools import setup
 
-setup(name='systeminfo',
+setup(name='sys_info',
       version='0.1',
       description='Systems infos on display',
       url='https://github.com/21205925/comp30830',
