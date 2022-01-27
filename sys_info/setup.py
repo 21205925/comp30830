@@ -8,5 +8,5 @@ setup(name='sys_info',
       author_email='elise.brard@ucdconnect.ie',
       license='UCD',
       packages=['sys_info'],
-      install_requires = ['psutil'],
+      
       zip_safe=False)
