@@ -1,7 +1,7 @@
 import os
 import platform
 import multiprocessing
-#import psutil
+import psutil
 import socket
 import math
 import itertools
